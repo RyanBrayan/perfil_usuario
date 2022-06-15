@@ -77,6 +77,8 @@ body{
     margin: 10px 0 0 0;
     font-weight: bold;
     font-size: 20px;
+    mix-blend-mode: screen;
+    
 }
 .container .sub__container .perfil .redes__contato{
     width: 100%;
