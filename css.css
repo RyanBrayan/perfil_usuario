@@ -60,7 +60,7 @@ body{
     padding:8px;
 }
 .container .sub__container .perfil{
-    height: 450px;
+    height: 550px;
     width: 300px;
     box-shadow: 0 0 10px;
     display: flex;
@@ -78,7 +78,7 @@ body{
     font-weight: bold;
     font-size: 20px;
     mix-blend-mode: screen;
-    
+    text-decoration: underline;
 }
 .container .sub__container .perfil .redes__contato{
     width: 100%;
